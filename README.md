@@ -35,3 +35,4 @@ If one wants to validate a model on a different test/validation set, follow the 
       2 unzip the file
       3 skip to the validation image and mask path declaration
       4 change the declaration to intented
+      5 run
