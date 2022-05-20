@@ -4,7 +4,7 @@ The ipynb notebook contains one of the possible training and test combination wh
       
       trained - ECSSD, tested - ECSSD
       
-HOowever, for the comparitive study, the following combinations have been used
+However, for the comparitive study, the following combinations have been used
 
       trained - ECSSD, tested - ECSSD
       trained - ECSSD, tested - MSRA
