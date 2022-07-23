@@ -1,5 +1,6 @@
 # DL-Project
-***by Ninad Mhalgi and Abichal Ghosh***
+***by 
+NINAD MHALGI and ABICHAL GHOSH***
 
 The ipynb notebook contains one of the possible training and test combination which is
       
