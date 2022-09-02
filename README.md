@@ -2,6 +2,8 @@
 ***by 
 NINAD MHALGI and ABICHAL GHOSH***
 
+The file "DL_Midsem_U2Net.ipynb" contains the implementation of UNet, whereas "Final_DL_Compre.ipynb" contains the implementation of U2Net Compre Final 
+
 The ipynb notebook contains one of the possible training and test combination which is
       
       trained - ECSSD, validated - ECSSD
