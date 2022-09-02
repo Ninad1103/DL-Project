@@ -4,16 +4,16 @@ NINAD MHALGI and ABICHAL GHOSH***
 
 The ipynb notebook contains one of the possible training and test combination which is
       
-      trained - ECSSD, tested - ECSSD
+      trained - ECSSD, validated - ECSSD
       
 However, for the comparitive study, the following combinations have been used
 
-      trained - ECSSD, tested - ECSSD
-      trained - ECSSD, tested - MSRA
-      trained - ECSSD, tested - DUTS
-      trained - MSRA, tested - ECSSD
-      trained - MSRA, tested - MSRA
-      trained - MSRA, tested - DUTS
+      trained - ECSSD, validated - ECSSD
+      trained - ECSSD, validated - MSRA
+      trained - ECSSD, validated - DUTS
+      trained - MSRA, validated - ECSSD
+      trained - MSRA, validated - MSRA
+      trained - MSRA, validated - DUTS
       
 In order to obatain all the combination results, the datasets and models have been provided in the form of google drive link
 
